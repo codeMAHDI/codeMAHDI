@@ -6,7 +6,7 @@
 - 💬 Ask me about Flutter App Development
 - 📫 How to reach me: Call "01410013150"
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to solve real-life problems through Flutter App Development
+- ⚡ Fact: I love to solve real-life problems through Flutter App Development
 
 
 🤖 About Me:
