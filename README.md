@@ -1,12 +1,12 @@
-## Hi, I'm Moshiur Rahman 👋
-- 🔭 I’m currently working on a Flutter real-world project in Sparktech Agency
-- 🌱 I’m currently learning CI/CD pipeline
-- 👯 I’m looking to collaborate on a Flutter project
-- 🤔 I’m looking for help with Flutter App Development
-- 💬 Ask me about Mobile App Development
-- 📫 How to reach me: Email(moshiurrahmanmehedi210@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fact: I dream in dark mode 🌙 and debug in light mode 🌞
+### 🤖 About Me
+I'm **Moshiur Rahman**, a passionate Computer Science Engineering student from **Hamdard University, Bangladesh**. With a strong foundation in programming and a keen interest in **Mobile Application Development**, I enjoy building intuitive and impactful software solutions.
+
+- 🔭 I’m currently working on a **Flutter real-world project** at Sparktech Agency.
+- 🌱 I’m currently learning **CI/CD pipelines**.
+- 👯 I’m looking to collaborate on **Flutter projects**.
+- 💬 Ask me about **Mobile App Development**.
+- 📫 Reach me via Email: [**moshiurrahmanmehedi210@gmail.com**](mailto:moshiurrahmanmehedi210@gmail.com)
+- ⚡ **Fun Fact:** I dream in dark mode 🌙 and debug in light mode 🌞.
 
 
 🤖 **About Me:**
