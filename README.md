@@ -34,19 +34,16 @@ Currently, I'm expanding my expertise in Flutter development with a real-world p
 
 <div align="center">
 
-<a href="https://leetcode.com/u/codeMAHDI02/">
-  <img src="https://leetcode-stats-six.vercel.app/?username=codeMAHDI02&theme=dark" alt="LeetCode Stats" />
-</a>
-<br/>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/codeMAHDI02?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/codeMAHDI02/)
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeMAHDI&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeMAHDI&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeMAHDI&theme=dark&hide_border=false" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeMAHDI&theme=dark&hide_border=false)
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeMAHDI&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeMAHDI&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
