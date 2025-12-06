@@ -1,10 +1,10 @@
 ## Hi, I'm Moshiur Rahman 👋
 - 🔭 I’m currently working on a Flutter real-world project in Sparktech Agency
-- 🌱 I’m currently learning Getx state management
+- 🌱 I’m currently learning CI/CD pipeline
 - 👯 I’m looking to collaborate on a Flutter project
 - 🤔 I’m looking for help with Flutter App Development
-- 💬 Ask me about Flutter App Development
-- 📫 How to reach me: Call "01410013150"
+- 💬 Ask me about Mobile App Development
+- 📫 How to reach me: Email(moshiurrahmanmehedi210@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fact: I dream in dark mode 🌙 and debug in light mode 🌞
 
