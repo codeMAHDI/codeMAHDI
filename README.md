@@ -45,7 +45,7 @@ I am driven by the vision of building **futuristic applications** that leverage 
 
 ## 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codeMAHDI&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codeMAHDI&theme=gruvbox" alt="GitHub Trophies" />
 </div>
 
 ### ✍️ Random Dev Quote
@@ -55,7 +55,7 @@ I am driven by the vision of building **futuristic applications** that leverage 
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=codeMAHDI&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeMAHDI&repo=Micro-Habit-App&theme=vision-friendly-dark" />
 </div>
 
 ---
