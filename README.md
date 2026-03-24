@@ -1,5 +1,9 @@
 ### 🤖 About Me
-I'm **Moshiur Rahman**, a passionate Computer Science Engineering student from **Hamdard University, Bangladesh**. With a strong foundation in programming and a keen interest in **Mobile Application Development**, I enjoy building intuitive and impactful software solutions.
+I'm **Moshiur Rahman**, a passionate **Software Engineer** and Computer Science Engineering student from **Hamdard University, Bangladesh**. I have over **2 years of experience** specializing in **Flutter app development (Android & iOS)**.
+
+My journey in mobile development began with **Native Android development using Java**, which provided me with a deep understanding of mobile ecosystems before I transitioned into Flutter. Beyond mobile development, I have research experience in **Machine Learning and IoT**. Notably, my work on an integrated ML and IoT system has been **published in an international conference**.
+
+I am driven by the vision of building **futuristic applications** that leverage modern technology to simplify daily human tasks and improve productivity.
 
 - 🔭 I’m currently working on a **Flutter real-world project** at Sparktech Agency.
 - 🌱 I’m currently learning **CI/CD pipelines**.
@@ -7,14 +11,6 @@ I'm **Moshiur Rahman**, a passionate Computer Science Engineering student from *
 - 💬 Ask me about **Mobile App Development**.
 - 📫 Reach me via Email: [**moshiurrahmanmehedi210@gmail.com**](mailto:moshiurrahmanmehedi210@gmail.com)
 - ⚡ **Fun Fact:** I dream in dark mode 🌙 and debug in light mode 🌞.
-
-
-🤖 **About Me:**
-
-I'm Moshiur Rahman, a passionate and ambitious Computer Science Engineering student from Humdard University, Bangladesh. With a strong foundation in programming and a keen interest in mobile application development, I am skilled in mobile application development, Flutter, Dart, Python, and Android Studio. My journey began with Android app development in Java, which sparked my curiosity for building intuitive and impactful software solutions. 
-
-Currently, I'm expanding my expertise in Flutter development with a real-world project.
-
 
 ## 🌐 Socials:
 <div align="center">
@@ -26,8 +22,9 @@ Currently, I'm expanding my expertise in Flutter development with a real-world p
 # 💻 Tech Stack:
 <div align="center">
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+*(Note: Other badges can be added here as needed)*
 </div>
 
 # 📊 Statistics:
