@@ -33,10 +33,6 @@ I am driven by the vision of building **futuristic applications** that leverage 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeMAHDI&show_icons=true&theme=swift&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=codeMAHDI&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
