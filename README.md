@@ -53,11 +53,6 @@ I am driven by the vision of building **futuristic applications** that leverage 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeMAHDI&repo=Micro-Habit-App&theme=vision-friendly-dark" />
-</div>
-
 ---
 <div align="center">
 
