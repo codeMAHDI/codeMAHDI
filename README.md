@@ -42,9 +42,8 @@ I am driven by the vision of building **futuristic applications** that leverage 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=codeMAHDI&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
-
-<p align="left">
 # Leetcode
+<p align="left">
 
   <a href="https://leetcode.com/u/codeMAHDI02/" target="blank">
     <img src="https://leetcard.jacoblin.cool/codeMAHDI02?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
