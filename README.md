@@ -26,34 +26,38 @@ I am driven by the vision of building **futuristic applications** that leverage 
 
 </div>
 
-# 📊 Statistics:
+# GitHub Stats
 
-<div align="center">
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeMAHDI&theme=swift&hide_border=true" alt="GitHub Streak" />
+</p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/codeMAHDI02?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/codeMAHDI02/)
-<br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeMAHDI&show_icons=true&theme=swift&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeMAHDI&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-<br/>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=codeMAHDI&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeMAHDI&theme=dark&hide_border=false)
-<br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeMAHDI&layout=compact&show_icons=true&theme=swift&hide_border=true&include_all_commits=true&count_private=false" alt="Top Langs" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeMAHDI&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeMAHDI&theme=gruvbox" alt="GitHub Trophies" />
-</div>
+<p align="left">
+  <a href="https://leetcode.com/u/codeMAHDI02/" target="blank">
+    <img src="https://leetcard.jacoblin.cool/codeMAHDI02?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-
-[![](https://visitcount.itsvg.in/api?id=codeMAHDI&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <br/>
+  <a href="https://visitcount.itsvg.in/api?id=codeMAHDI&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=codeMAHDI&icon=0&color=0" alt="Visitor Count" />
+  </a>
 </div>
