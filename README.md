@@ -37,10 +37,6 @@ I am driven by the vision of building **futuristic applications** that leverage 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeMAHDI&layout=compact&show_icons=true&theme=swift&hide_border=true&include_all_commits=true&count_private=false" alt="Top Langs" />
-</p>
-
-<p align="left">
   <a href="https://leetcode.com/u/codeMAHDI02/" target="blank">
     <img src="https://leetcard.jacoblin.cool/codeMAHDI02?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
   </a>
