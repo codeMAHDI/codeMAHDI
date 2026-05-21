@@ -47,7 +47,7 @@ I am driven by the vision of building **futuristic applications** that leverage 
 </p>
 
 ### ✍️ Random Dev Quote
-<div align="center">
+<div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
