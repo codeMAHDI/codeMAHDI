@@ -44,9 +44,9 @@ I am driven by the vision of building **futuristic applications** that leverage 
 </p>
 
 <p align="left">
-  <h3 align="left">
+  <h2 align="left">
     leetcode
-  </h3>
+  </h2>
   <a href="https://leetcode.com/u/codeMAHDI02/" target="blank">
     <img src="https://leetcard.jacoblin.cool/codeMAHDI02?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
   </a>
