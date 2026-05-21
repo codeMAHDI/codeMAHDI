@@ -53,8 +53,6 @@ I am driven by the vision of building **futuristic applications** that leverage 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
----
-<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=codeMAHDI&icon=0&color=0)](https://visitcount.itsvg.in)
 
