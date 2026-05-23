@@ -1,7 +1,7 @@
 ### 🤖 About Me
 I'm **Moshiur Rahman**, a passionate **Software Engineer** and Computer Science Engineering student from **Hamdard University, Bangladesh**. I have over **2 years of experience** specializing in **Flutter app development (Android & iOS)**.
 
-My journey in mobile development began with **Native Android development using Java**, which provided me with a deep understanding of mobile ecosystems before I transitioned into Flutter. Beyond mobile development, I have research experience in **Machine Learning and IoT**. Notably, my work on an integrated ML and IoT system has been **published in an international conference**.
+My journey in mobile development began with **Native Android development using Java**, which provided me with a deep understanding of mobile ecosystems before I transitioned into Flutter. Beyond mobile development, I have research experience in **Machine Learning and IoT**. Notably, my work on an integrated ML and IoT system has been **published in an [international conference](https://link.springer.com/chapter/10.1007/978-981-96-6066-7_33)**.
 
 I am driven by the vision of building **futuristic applications** that leverage modern technology to simplify daily human tasks and improve productivity.
 
@@ -41,7 +41,6 @@ I am driven by the vision of building **futuristic applications** that leverage 
 # Leetcode
 
 <p align="left">
-
   <a href="https://leetcode.com/u/codeMAHDI02/" target="blank">
     <img src="https://leetcard.jacoblin.cool/codeMAHDI02?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
   </a>
