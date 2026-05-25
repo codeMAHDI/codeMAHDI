@@ -3,7 +3,7 @@ I'm **Moshiur Rahman (codeMAHDI)**, a **Software Engineer** and CSE student at H
 
 My foundations began in **Native Android (Java)**, giving me a deep understanding of mobile hardware and performance optimization before transitioning fully into **Flutter & Dart**. 
 
-I love exploring software deeply—from high-level mobile applications to low-level systems. I recently designed and built **.maya**, a custom interpreted programming language from scratch, complete with its own lexical analyzer, parser, and runtime environment. Beyond application development, I have research experience in **Machine Learning and IoT**, with an integrated system **[published in a Springer international conference](https://link.springer.com/chapter/10.1007/978-981-96-6066-7_33)**.
+I love exploring software deeply from high-level mobile applications to low-level systems. I recently designed and built **.maya**, a custom interpreted programming language from scratch, complete with its own lexical analyzer, parser, and runtime environment. Beyond application development, I have research experience in **Machine Learning and IoT**, with an integrated system **[published in a Springer international conference](https://link.springer.com/chapter/10.1007/978-981-96-6066-7_33)**.
 
 - 🚀 Currently working as a **Junior Flutter Developer** at Spark Tech Agency, leading the end-to-end development of 6 mobile applications (4 solo, 2 team projects).
 - 🏗️ Expert in **Feature-First MVVM**, **GetX**, **BLoC**, and building robust, real-time architectures (WebSockets, Stripe, RBAC).
